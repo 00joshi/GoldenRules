@@ -1,0 +1,8 @@
+This font was used:
+https://www.onlinewebfonts.com/fonts/demosfen
+
+Visicut Settings:
+- Disable Focus.
+- Mapping: All engrave
+- Power:100 Speed:30 Focus:0
+
